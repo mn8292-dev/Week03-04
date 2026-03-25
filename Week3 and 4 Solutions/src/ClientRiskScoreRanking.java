@@ -24,6 +24,7 @@ public class ClientRiskScoreRanking {
         int n = clients.length;
         int swapCount = 0;
 
+
         System.out.println("\n--- Bubble Sort (Ascending by Risk Score) ---");
 
         for (int i = 0; i < n - 1; i++) {
